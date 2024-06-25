@@ -1,9 +1,16 @@
-# React TypeScript Starter Pack
+Technologies Used:
+React
+TypeScript 
+Redux 
+HTML5 
+CSS3 
+SCSS 
+BEM 
+Bootstrap
+Git/GitHub 
+VS Code 
+NPM 
+Webpack
 
-To use this template click `Use this template`
+[DEMO LINK](https://stepanyukvova200.github.io/TODO-Management/)
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
